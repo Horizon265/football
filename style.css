@@ -1,0 +1,48 @@
+body {
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 4rem;
+    background-color: aquamarine;}
+.W{
+    font-size: 2rem;
+    font-style: oblique;
+}
+.speed{
+    font-size: x-large;
+    
+}
+.speeddisc{
+    font-style: italic;
+    
+}
+.step{
+    font-size: x-large;
+}
+.steppin{
+    margin-top: 1rem;
+    font-size: 18px;
+    font-style: italic;
+}
+.crock{
+    font-size: x-large;
+    font-style: italic;
+}
+.crockv2{
+    font-size: 18px;
+    font-style: oblique;
+}
+.turn{
+    font-size: x-large;
+}
+.turnv2{
+    font-size: 18px;
+    font-style: italic;
+}
+.elast{
+    font-size: x-large;
+}
+.elastv2{
+    font-size: 18px;
+    font-style: italic;
+
+}
